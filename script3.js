@@ -2,7 +2,7 @@ var ok = confirm("Do you agree to share your personal information with this site
 
 if (ok)
 {
-	var Nickname = "Tine";
+    var Nickname = "Tine";
     var Height = "62";
     var Weight = "45";
 
